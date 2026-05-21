@@ -13,7 +13,7 @@ close
 night
 real
 life
-few
+die
 north
 open
 seem
@@ -291,7 +291,7 @@ row
 mouth
 exact
 symbol
-die
+hard
 least
 trouble
 shout
